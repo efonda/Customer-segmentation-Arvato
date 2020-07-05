@@ -20,9 +20,14 @@ The data provided for the project was the following:
 
 4. `mailout_test.csv` - Demographics data for individuals who were targets of a marketing campaign (test) - 42,833 persons (rows) x 366 (columns)
 
+5. `DIAS Information Levels - Attributes 2017.xlsx` - Description of the features
+
+6. `DIAS Attributes - Values 2017.xlsx` - Description of the features and their values
+
 
 ## Libraries
 The code uses python 3 and requires the following packages: numpy, pandas, matplotlib, seaborn, sklearn, lightgbm, catboost, h2o, shap.
+
 
 ## Kaggle
 The supervised learning portion of the project was part of a Kaggle competition. On July 4 2020 we ranked 11th out of 215 participants.
